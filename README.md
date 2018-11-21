@@ -13,4 +13,9 @@
 
 ## commit 3 - Task 5
 - changed menu to be horizontal (see css) 
+- added missing links
+
+## commit 4 - Task 6
+- Added div for timeline
+- Changed CSS to improve the timeline (without numbering, as the list start with years already, this is more clear
 
