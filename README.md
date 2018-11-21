@@ -1,5 +1,5 @@
 # YO 
-- 'DIS' is my readme file I keep also track on changes
+- 'DIS' is my *readme* file I keep also track on changes :+1:
 
 ![Image of Katten](_images/cat.jpg)
 
