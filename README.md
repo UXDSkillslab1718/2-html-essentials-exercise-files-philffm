@@ -1,7 +1,7 @@
 # YO 
 - 'DIS' is my readme file I keep also track on changes
 
-![Katten-Meme](_images/cat.jpeg)
+![katten-meme] (_images/cat.jpg)
 
 
 
